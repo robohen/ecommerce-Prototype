@@ -1,0 +1,18 @@
+.hightlight {
+    background-color: #80c0b5;
+}
+.navbar-style
+{
+    background-color: #80c0b5  !important; 
+}
+.badge {
+    background-color: gray;
+}
+.green-highlight{
+    color: #008000;
+    font-size: 40px;
+}
+.red-highlight{
+    color: #f00;
+    font-size: 25px;
+}
